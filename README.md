@@ -13,4 +13,9 @@
 <a href="https://www.linkedin.com/in/matheus-porezeli-5bb10455" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusporezeli&theme=tokyonight)
+<div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusporezeli&show_icons=true&theme=highcontrast"/>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusporezeli&theme=tokyonight)
+</div>
