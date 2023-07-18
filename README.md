@@ -3,8 +3,9 @@
 
 ### My progress:
 <div>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusporezeli&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusporezeli&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusporezeli&theme=dark" alt="mystreak"/>
 </div>
 
 
